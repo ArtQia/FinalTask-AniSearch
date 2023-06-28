@@ -1,0 +1,4 @@
+{
+  "TestFramework": "unittest",
+  "UnitTestPattern": "test_*.py"
+}
